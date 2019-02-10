@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloatingPointTest",
+            "request": "launch",
+            "mainClass": "FloatingPointTest",
+            "projectName": "1_aaf0e09e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CastTest",
+            "request": "launch",
+            "mainClass": "CastTest",
+            "projectName": "1_aaf0e09e"
+        }
+    ]
+}
