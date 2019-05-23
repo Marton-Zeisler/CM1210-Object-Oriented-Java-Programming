@@ -7,7 +7,7 @@ public class ReadTest {
 
         try {
             ObjectInputStream in = new ObjectInputStream
-                ( new FileInputStream( "matt.dat" ) );
+                ( new FileInputStream( "test.dat" ) );
             SomeClass sc = (SomeClass)in.readObject();
             System.out.println(sc);
             in.close();
